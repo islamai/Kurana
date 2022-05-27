@@ -1,0 +1,40 @@
+
+[
+    {
+        "id" : 1,
+        "title" : "Da yeleli",
+        "ayas": [
+            {
+                 "id" : 1,
+                "text": "Ni ala tɔgɔ ye, diɲɛ nɛɛma labɔlen tigi, ani lahara hinɛ kɛrɛnkɛrɛnne tigi"
+            },
+            {
+                 "id" : 2,
+                "text": "Tanu bɛ ala ye, danfɛnw da ba masa."
+            },
+            {
+                 "id" : 3,
+                "text": "Diɲɛ nɛɛma labɔlen tigi, ani lahara hinɛ kɛrɛnkɛrɛnne tigi"
+            },
+            {
+                 "id" : 4,
+                "text": "sara don masa"
+            },
+            {
+                 "id" : 5,
+                "text": "An bɛ e diaati de bato,  ani an bɛ dɛmɛ ɲini e diaati de fɛ"
+            },
+            {
+                 "id" : 6,
+                "text": "Anw bilasira sira ɲuman kan"
+            },{
+                "id" : 7,
+                "text": "I ye nɛɛma ke maa minuw kan, olu ka sira; Maaw ka sira te, i ka dimi sera maa minuw man, wala maa fililenw"
+            }
+            
+        ]
+    }
+]
+
+
+
