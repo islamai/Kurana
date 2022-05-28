@@ -33,6 +33,32 @@
             }
             
         ]
+    },
+    {
+        "id" : 2,
+        "title" : "Misimuso",
+        "ayas" : [
+            {
+                "id" : 1,
+                "text" : "Alif lam mim"
+            },
+            {
+                "id" : 2,
+                "text" : "Nin ye gafe ye siga te min na , bilasiraliba'a dɔ alaɲɛsiranba'aw ye"
+            },
+            {
+                "id" : 3,
+                "text" : "Ma'a minnu bɛ da ko dogolenw la, ni ou bɛ seli djɔ, ni ....."
+            },
+            {
+                "id" : 4,
+                "text" : "Ani ma'a minnu bɛ da fɛn la min jiginna i kan, ani fɛn min jiginna ka kɔn i ɲɛ, ani u dalen bɛ laharako la.”"
+            },
+            {
+                "id" : 5,
+                "text" : "Olu bɛ u Matigi ka bilasirali de kan, wa olu de ye ɲɛtaa sɔrɔba'aw ye.”"
+            }
+        ]
     }
 ]
 
