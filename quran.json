@@ -1,0 +1,66 @@
+
+[
+    {
+        "id" : 1,
+        "title" : "Yeleni",
+        "ayas": [
+            {
+                 "id" : 1,
+                "text": "Ni ala tɔgɔ ye, diɲɛ nɛɛma labɔlen tigi, lahara hinɛ kɛrɛnkɛrɛnne tigi"
+            },
+            {
+                 "id" : 2,
+                "text": "Tanu bɛ ala ye, danfɛnw da ba masa."
+            },
+            {
+                 "id" : 3,
+                "text": "Diɲɛ nɛɛma labɔlen tigi, lahara hinɛ kɛrɛnkɛrɛnne tigi"
+            },
+            {
+                 "id" : 4,
+                "text": "sara don masa"
+            },
+            {
+                 "id" : 5,
+                "text": "An bɛ e djati de bato,  ani an bɛ dɛmɛ ɲini e djati de fɛ"
+            },
+            {
+                 "id" : 6,
+                "text": "An bla sira kilɛnen kan"
+            },{
+                "id" : 7,
+                "text": "I ye nɛɛma ke maa minuw kan, olu ka sira; Maaw ka sira te, dimi kelen dɔ maa minuw kɔrɔ, wala maa fililenw"
+            }
+            
+        ]
+    },
+    {
+        "id" : 2,
+        "title" : "Misimuso",
+        "ayas" : [
+            {
+                "id" : 1,
+                "text" : "Alif lam mim"
+            },
+            {
+                "id" : 2,
+                "text" : "Nin ye gafe ye siga te min na , bilasiraliba'a dɔ alaɲɛsiranba'aw ye"
+            },
+            {
+                "id" : 3,
+                "text" : "Ma'a minnu bɛ da ko dogolenw la, ni ou bɛ seli djɔ, ni ....."
+            },
+            {
+                "id" : 4,
+                "text" : "Ani ma'a minnu bɛ da fɛn la min jiginna i kan, ani fɛn min jiginna ka kɔn i ɲɛ, ani u dalen bɛ laharako la.”"
+            },
+            {
+                "id" : 5,
+                "text" : "Olu bɛ u Matigi ka bilasirali de kan, wa olu de ye ɲɛtaa sɔrɔba'aw ye.”"
+            }
+        ]
+    }
+]
+
+
+
