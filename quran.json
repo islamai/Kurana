@@ -2,36 +2,35 @@
 [
     {
         "id" : 1,
-        "title" : "Yeleni",
+        "title" : "Da yeleli",
         "ayas": [
             {
                  "id" : 1,
-                "text": "Ni ala tɔgɔ ye, diɲɛ nɛɛma labɔlen tigi, lahara hinɛ kɛrɛnkɛrɛnne tigi"
+                "text": "Ni ala tɔgɔ ye, min ye diɲɛ hinɛ labɔlen tigi ye, min ye lahara hinɛ kɛrɛnkɛrɛnlen tigi ye"
             },
             {
                  "id" : 2,
-                "text": "Tanu bɛ ala ye, danfɛnw da ba masa."
+                "text": "Tanu ye ala ta ye, ale min ye dani fɛnw tigi ye."
             },
             {
                  "id" : 3,
-                "text": "Diɲɛ nɛɛma labɔlen tigi, lahara hinɛ kɛrɛnkɛrɛnne tigi"
+                "text": "Diɲɛ hinɛ labɔlen tigi dɔ, lahara hinɛ kɛrɛnkɛrɛnlen tigi dɔ"
             },
             {
                  "id" : 4,
-                "text": "sara don masa"
+                "text": "sarali don marabaga dɔ"
             },
             {
                  "id" : 5,
-                "text": "An bɛ e djati de bato,  ani an bɛ dɛmɛ ɲini e djati de fɛ"
+                "text": "An bɛ e djati de bato,  wa an bɛ dɛmɛ ɲini e djati de fɛ"
             },
             {
                  "id" : 6,
-                "text": "An bla sira kilɛnen kan"
+                "text": "An kanda, i ka an bla sira kilɛnen kan,"
             },{
                 "id" : 7,
-                "text": "I ye nɛɛma ke maa minuw kan, olu ka sira; Maaw ka sira te, dimi kelen dɔ maa minuw kɔrɔ, wala maa fililenw"
+                "text": "maaw ga sira ko do, i ye nɛɛma ke maa minuw kan. funu kera maa minuw kɔrɔ ani maa fililenw, olu ka sira ko tɛ"
             }
-            
         ]
     },
     {
