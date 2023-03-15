@@ -1,4 +1,4 @@
-# <div  style="margin: 0 40%">﷽</div>
+# <div dir="rtl">﷽</div>
 
 Nous essayerons ici d'écrire en bamanan la version de tafsir de [`Sidi Aboubacar Touré`](https://t.me/sidiaboubacartoure)
 
