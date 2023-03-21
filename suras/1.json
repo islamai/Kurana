@@ -1,34 +1,9 @@
 {
-    "id": 1,
-    "title": "Da yeleli",
-    "ayas": [
-        {
-            "id": 1,
-            "text": "Ni ala tɔgɔ ye, min ye diɲɛ hinɛ labɔlen tigi ye, min ye lahara hinɛ kɛrɛnkɛrɛnlen tigi ye"
-        },
-        {
-            "id": 2,
-            "text": "Tanu ye ala ta ye, ale min ye dani fɛnw tigi ye."
-        },
-        {
-            "id": 3,
-            "text": "Diɲɛ hinɛ labɔlen tigi dɔ, lahara hinɛ kɛrɛnkɛrɛnlen tigi dɔ"
-        },
-        {
-            "id": 4,
-            "text": "sarali don marabaga dɔ"
-        },
-        {
-            "id": 5,
-            "text": "An bɛ e djati de bato,  wa an bɛ dɛmɛ ɲini e djati de fɛ"
-        },
-        {
-            "id": 6,
-            "text": "An kanda, i ka an bla sira kilɛnen kan,"
-        },
-        {
-            "id": 7,
-            "text": "maaw ga sira ko do, i ye nɛɛma ke maa minuw kan. funu kera maa minuw kɔrɔ ani maa fililenw, olu ka sira ko tɛ"
-        }
-    ]
+    "1": "Ni ala tɔgɔ ye, min ye diɲɛ hinɛ labɔlen tigi ye, min ye lahara hinɛ kɛrɛnkɛrɛnlen tigi ye",
+    "2": "Tanu ye ala ta ye, ale min ye dani fɛnw tigi ye.",
+    "3": "hinɛ labɔlen tigi, hinɛ kɛrɛnkɛrɛnlen tigi",
+    "4": "sarali don tigi",
+    "5": "I djati an b'o de bato, wa i djati an bɛ dɛmɛ ɲini o de fɛ",
+    "6": "an bilasira tilennen kan,",
+    "7": "maaw ka sira ko do, i nɛɛmara maa minuw kan. funu kɛra maa minuw kɔrɔ ani maa fililenw, olu ka sira ko tɛ"
 }
