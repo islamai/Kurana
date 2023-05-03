@@ -7,9 +7,9 @@ Si vous vous sentez à l'aise avec le langue `bamanan` et que vous êtes souvent
 Merci.
 
 #### Quelques convernsion d'ecriture ...
-
+- `Les noms de Allah ou tout autre chose faisant reference a Allah doit commence une lettre capitale
 - `Ala` = `الله` 
-- `Matigi` = `رب` `ربنا` `ربي`
+- `Tigi` = `رب` `ربنا` `ربي`
 - `bato masa` = `إله`
 - ...
 
